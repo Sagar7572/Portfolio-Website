@@ -1,0 +1,25 @@
+/* #Home{
+    display: flex;
+    align-items: center;
+} */
+.nav-link{
+    color: aliceblue;
+    
+    ;
+}
+/* *{
+    background-color:#000000 ;
+} */
+#Home{
+    color: rgb(255, 254, 251);
+   
+}
+.Skill img{
+   
+    
+    height: 150px;
+}
+.info-box{
+    background-color: darkgray;
+    border-radius: 20px;
+}
