@@ -61,6 +61,6 @@ header{
     background-color: darkgray;
 }
 #footer{
-    box-shadow: 1rem 0 0 0;
+    box-shadow: 1rem 0 0 5;
     
 }
