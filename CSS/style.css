@@ -46,7 +46,10 @@ header{
     background-color: darkgray;
     border-radius: 20px;
     height: 150px;
-    padding:  10px 0 0 15px;
+    /* padding:  10px 0 0 15px; */
+    padding-left: 25px;
+    padding-top: 25px;
+    line-height: 2px;
     
 }
 #skills{
@@ -56,11 +59,14 @@ header{
     padding-bottom: 5rem;
     margin-bottom: 5rem;
     color: cornsilk;
+    
 }
 .socials{
     background-color: darkgray;
     height: 150px;
     border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 25px;
     
     
 }
@@ -72,11 +78,15 @@ header{
     background-color: darkgray;
     height: 150px;
     border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 25px;
 }
 .phone{
     background-color: darkgray;
     height: 150px;
     border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 25px;
 }
 #footer{
     box-shadow: 1rem 0 0 5;
@@ -85,7 +95,7 @@ header{
 
 /* //Project Section // */
 #projects{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 .wrapper{
 
