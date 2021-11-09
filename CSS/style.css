@@ -74,6 +74,34 @@ header{
     padding-left: 10px;
     border-radius: 20px;
 }
+.details span{
+    background-color: rgb(134, 128, 128);
+    padding: 5px 10px 5px 10px;
+    border-radius: 100%;
+
+    
+}
+.mail span{
+    background-color: rgb(134, 128, 128);
+    padding: 5px 10px 5px 10px;
+    border-radius: 100%;
+
+    
+}
+.phone span{
+    background-color: rgb(134, 128, 128);
+    padding: 5px 10px 5px 10px;
+    border-radius: 100%;
+
+    
+}
+.info-box span{
+    background-color: rgb(134, 128, 128);
+    padding: 5px 10px 5px 10px;
+    border-radius: 100%;
+
+    
+}
 .mail{
     background-color: darkgray;
     height: 150px;
