@@ -37,10 +37,18 @@ header{
     background-color: rgb(24, 22, 22);
     
     padding-bottom: 5rem;
+    padding-top: 5px;
    
+}
+#home p{
+    font-size: 20px;
+    padding-top: 5px;
 }
 #home h3{
     color: #6abcbe;
+}
+#home span{
+    color: #6abcbe;;
 }
 #about{
     background-color: rgb(24, 22, 22);
@@ -86,6 +94,13 @@ header{
     height: 100%;
     /* margin-top: 50px; */
     padding-top: 50px;
+    
+}
+#contact h1{
+    color: aliceblue;
+}
+.fab:hover{
+    text-decoration-line: underline;
 }
 .socials{
     background-color: darkgray;
@@ -147,13 +162,13 @@ header{
 }
 #footer{
     box-shadow: 1rem 0 0 5;
-    
+    color: aliceblue;
 }
 
 /* //Project Section // */
 #projects h1{
-    color: rgb(216, 216, 216);
-    text-decoration: underline;
+    color: rgb(255, 255, 255);
+    /* text-decoration: underline; */
     margin-top: 0px;
     padding-top: 25px;
     padding-bottom: 25px;
